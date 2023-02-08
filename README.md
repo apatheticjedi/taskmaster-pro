@@ -44,7 +44,7 @@ in the command line in the root directory to install all dependencies. Then it c
 
 ## Usage
 
-To use this application, open the link here. Then click the "Add Task" button to create a task and select a due date. To remove all tasks currently on the board, click the "Delete All Tasks" button. Once a task is created, click on the text in the task to edit it, or drag and drop the task into other categories to change the status.
+To use this application, open the link [here](https://apatheticjedi.github.io/taskmaster-pro/). Then click the "Add Task" button to create a task and select a due date. To remove all tasks currently on the board, click the "Delete All Tasks" button. Once a task is created, click on the text in the task to edit it, or drag and drop the task into other categories to change the status.
 
 ## Contributing
 
