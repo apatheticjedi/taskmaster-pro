@@ -18,6 +18,8 @@
 
 This is a project that was completed in class, designed to gain experience integrating coding libraries and CDNs into vanilla HTML, CSS, and JavaScript. This application is a task manager kanban board with the ability to add, edit, and delete tasks.Tasks added into the application are linked to a due date and will change color based on whether the task is nearly due or overdue. Users can also drag and drop the tasks into different categories of "To Do," "In Progress," "In Review," or "Done." 
 
+[View the Deployed Application Here](https://apatheticjedi.github.io/taskmaster-pro/)
+
 ![Taskmaster Pro Screenshot](/assets/images/screencapture-apatheticjedi-github-io-taskmaster-pro-2023-02-08-13_44_40.png)
 
 ### Built With
